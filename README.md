@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirsocerqueira&label=Profile%20views&color=0e75b6&style=flat" alt="tirsocerqueira" /> </p>
 
-- 🌱 I’m currently learning **The Odin Project**
+- 🌱 I’m currently learning **The Odin Project, Apache Airflow, Apache Hop & Big Data Tool**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tirsocerqueira?tab=repositories](https://github.com/tirsocerqueira?tab=repositories)
 
